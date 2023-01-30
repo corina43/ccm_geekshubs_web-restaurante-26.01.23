@@ -36,7 +36,8 @@ body{
 footer {
     background: linear-gradient(rgba(54, 56, 54, 0.5), rgba(0, 0, 0, 0.7));
     padding-top: 20px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
+   
     
     
 }
