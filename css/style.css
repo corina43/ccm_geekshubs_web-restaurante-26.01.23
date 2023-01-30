@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;500;600;700&display=swap');
  .navbar{
    
     position: fixed;
@@ -58,7 +59,7 @@ nav a{
   }
 
 .text-center{
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: bold;
     text-shadow: -1px -1px 1.2px rgba(63, 59, 59, 0.5),
     1px 1px 1px rgba(152, 148, 148, 0.07);

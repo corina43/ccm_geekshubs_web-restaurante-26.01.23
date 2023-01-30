@@ -4,6 +4,19 @@ body {
     font-family: "Spline Sans", sans-serif;
     color: #777;
     line-height: 1.7;
+    background-image: url(./img/fondo1.jpg);
+}
+.nav{
+    
+    color: #222;
+    text-decoration-color: #222;
+    font-weight: bolder;
+    
+    width: 100%;
+    z-index: 1;
+    text-shadow: -1px -1px 1.2px rgba(63, 59, 59, 0.5),
+    1px 1px 1px rgb(1 1 1 / 7%);
+    
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -92,7 +105,3 @@ section {
     color: #F58d17;
 }
 
-/* Features */
-#features {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/cover2.jpg);
-}

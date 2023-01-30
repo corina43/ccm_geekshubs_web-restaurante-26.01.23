@@ -1,26 +1,9 @@
-/* Reviews */
-#reviews {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/cover3.jpg);
-}
-.review img {
-    width: 75px;
-    height: 75px;
-    object-fit: cover;
+body{
+    background-image: url(../img/fondo5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.review .quote-icon {
-    font-size: 74px;
-    color: #F58d17;
-    line-height: 1;
-}
-
-.review .stars {
-    color: #F58d17;
-}
-
-#reviews .carousel-indicators {
-    margin-bottom: -3rem;
-}
 /* reservation */
 #reservation .form-control {
     border-radius: 0;
@@ -38,9 +21,10 @@
 
 /* Footer */
 footer {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/cover3.jpg);
-    padding-top: 120px;
+    background: linear-gradient(rgba(54, 56, 54, 0.5), rgba(0, 0, 0, 0.7));
+    padding-top: 20px;
     padding-bottom: 30px;
+    
 }
 
 .footer-top {
@@ -49,7 +33,7 @@ footer {
 
 footer p,
 footer a{
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(235, 229, 229, 0.75);
 }
 
 footer .social-links a {
@@ -58,10 +42,10 @@ footer .social-links a {
 }
 
 footer img {
-    max-width: 175px;
+    max-width: 125px;
 }
 
 .footer-bottom {
     padding-top: 30px;
-    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    border-top: 1px solid rgba(14, 13, 13, 0.4);
 }
