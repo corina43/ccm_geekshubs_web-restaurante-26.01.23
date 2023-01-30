@@ -1,3 +1,4 @@
+/* Navbar */
 @import url('https://fonts.googleapis.com/css2?family=Spline+Sans:wght@400;500;600;700&display=swap');
  .navbar{
    
@@ -39,13 +40,13 @@ nav a{
 
 
 .parallax {
-    /* The image used */
+    /* Imagen usada */
     background-image: url(/img/fondo1.jpg);
   height: 80vh;
-    /* Set a specific height */
+    /* Defino la altura  */
     min-height: 360px; 
   
-    /* Create the parallax scrolling effect */
+    /* Creando el efecto de desplazamiento de parallax */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -59,7 +60,6 @@ nav a{
   }
 
 .text-center{
-    /* text-transform: uppercase; */
     font-weight: bold;
     text-shadow: -1px -1px 1.2px rgba(63, 59, 59, 0.5),
     1px 1px 1px rgba(152, 148, 148, 0.07);

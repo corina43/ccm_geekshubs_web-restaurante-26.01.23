@@ -7,11 +7,22 @@ body{
 /* reservation */
 #reservation .form-control {
     border-radius: 0;
+    border-radius: 20px;
+    box-shadow:
+    inset 3px 5px 5px -1px rgba(228, 228, 228, 0.5), 
+    inset -3px -3px 5px -1px rgb(0 0 0 / 20%),
+     1px 1px 1px 2px rgba(234, 228, 228, 0.8),
+    2.5px 5px 5px 1px rgb(0 0 0 / 90%) 
+}
+.instrucciones{
+    color: coral;
+    font-weight: bold;
 }
 
 #reservation .form-control:focus {
     box-shadow: none;
-    border-color: #F58d17;
+    border-color: rgb(25, 24, 24);
+    
 }
 
 #reservation input.form-control {
@@ -22,30 +33,35 @@ body{
 /* Footer */
 footer {
     background: linear-gradient(rgba(54, 56, 54, 0.5), rgba(0, 0, 0, 0.7));
-    padding-top: 20px;
-    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    
     
 }
 
 .footer-top {
     margin-bottom: 30px;
+   
 }
 
 footer p,
 footer a{
-    color: rgba(235, 229, 229, 0.75);
+    color: rgba(239, 237, 237, 0.75);
 }
 
 footer .social-links a {
     font-size: 24px;
     margin-right: 10px;
+    
 }
 
-footer img {
-    max-width: 125px;
-}
+
 
 .footer-bottom {
     padding-top: 30px;
     border-top: 1px solid rgba(14, 13, 13, 0.4);
+}
+.mapa{
+    width: 100%;
+    height: 85%;
 }
