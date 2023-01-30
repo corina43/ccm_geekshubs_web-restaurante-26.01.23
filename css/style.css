@@ -41,7 +41,7 @@ nav a{
 
 .parallax {
     /* Imagen usada */
-    background-image: url(./img/fondo1.jpg);
+    background-image: url(/img/fondo1.jpg);
   height: 80vh;
     /* Defino la altura  */
     min-height: 360px; 
