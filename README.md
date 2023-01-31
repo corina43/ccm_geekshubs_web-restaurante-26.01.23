@@ -57,7 +57,7 @@
 
 
   
-   *secciones para redirigir a los grupos de tarjetas nuestra carta/desayunos/almuerzos/comida  activando la navegación por pestañas o píldoras sin escribir JavaScript simplemente especificando data-bs-toggle="tab" o data-bs-toggle="pill" en un elemento.
+     * secciones para redirigir a los grupos de tarjetas nuestra carta/desayunos/almuerzos/comida  activando la navegación por pestañas o píldoras sin escribir JavaScript simplemente especificando data-bs-toggle="tab" o data-bs-toggle="pill" en un elemento.
    
    
    
