@@ -31,7 +31,7 @@ nav a{
 
 .title{
     font-size: 10px;
-    color: rgb(233, 100, 52);
+    color: rgb(9, 22, 12);
     text-shadow: -1px -2px 1.2px rgba(63, 59, 59, 0.5),
     2px 3px 2px rgb(1 1 1 / 7%);
 
@@ -104,56 +104,3 @@ nav a{
 
 
 
-
-/* body{
-    background-color: blueviolet;
-}
-
-
-.navbarDesign{
-    height: 120px;
-    z-index: 1;
-    overflow: hidden;
-    font-size: 30px;
-    font-family: cursive ;
-font-weight: bold;
-}
-
-
-.box1{
-    background-color: rgba(156, 237, 237, 0.984);
-    box-shadow: inset rgba(0 , 0 ,0 , 1.5);
-    border-bottom: 10px;
-}
-.main{
-    height: 700px;
-   
-}
-.box2{
-    display: flex;
-    background-image: url(/img/fondo1.jpg);
-    background-repeat: no no-repeat;
-    background-size: cover;
-    justify-content: flex-start;
-} 
-p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
-    font-style: italic;
-    font-size: 30px;
-    font-family: cursive;
-    box-shadow: inset rgba(0, 0 ,0 , 0, 2.5)
-    inset rgba(0, 0 ,0 , 0, 2.5);
-   
-}
-.logo{
-    display: flex;
-  
-    color: rgb(225, 69, 17);
-    box-shadow: inset rgba(0, 0 ,0 , 0, 2.5)
-    inset rgba(0, 0 ,0 , 0, 2.5);
-}
-.footer{
-    background-color: blue;
-    height: 120px;
-} */
